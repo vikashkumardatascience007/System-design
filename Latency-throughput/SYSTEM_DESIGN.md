@@ -31,12 +31,9 @@ This repository explains **Latency** and **Throughput** in system design end-to-
 - `async-queue-flow.svg`
 - `db-scaling.svg`
 
-Embed them in your docs with:
-```markdown
+## High Level Architecture
 ![High Level Architecture](./diagrams/high-level-architecture.svg)
-```
 
----
 
 ## 1. Definitions
 
